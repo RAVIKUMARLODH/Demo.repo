@@ -1,3 +1,0 @@
-print "this is my first project in virtual box"
-this is also my first local machine project
-hello my name is ravikumar lodh
